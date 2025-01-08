@@ -1,0 +1,2 @@
+add_executable(remove_linked_list_elements 1_remove_linked_list_elements.cpp)
+target_link_libraries(remove_linked_list_elements GTest::gtest_main)
